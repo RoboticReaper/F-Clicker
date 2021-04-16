@@ -8,11 +8,13 @@ This auto clicker was specifically designed for one of the Genshin Impact's achi
 4. Have admin permission
 
 # How to use
-1. Go to the directory where you saved the program
-2. Copy the directory
-3. Open command prompt, run as administrator
-4. Type `cd`, then type a space, then right click, and enter
-5. Type `python "F clicker.py"` and enter
-6. Go into the game, find an NPC that has the least dialog (only speak one time before dialog options show up. Also only speak one time after you say goodbye)
-7. Press backspace to begin the program. It will automatically do everything
-8. Long press 1 to stop the program
+1. Edit the `F clicker.py` file, open with notepad
+2. On the 7th line, change the resolution to your screen's resolution. By default it is 2560 by 1440
+3. Save and close the file
+4. Copy the directory which the file is in
+5. Open command prompt, run as administrator
+6. Type `cd`, then type a space, then right click, and enter
+7. Type `python "F clicker.py"` and enter
+8. Go into the game, find an NPC that has the least dialog (only speak one time before dialog options show up. Also only speak one time after you say goodbye)
+9. Press backspace to begin the program. It will automatically do everything
+10. Long press 1 to stop the program
