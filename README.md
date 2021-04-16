@@ -1,8 +1,6 @@
 # F-Clicker
 This auto clicker was specifically designed for one of the Genshin Impact's achievement called "Friends the World Over". It gives 10 primogems.
 
-Tutorial 
-
 # Requirement
 1. Having 16:9 screen ratio (2560:1440, 1920:1080...)
 2. Have Python installed. If not, download here: https://www.python.org/downloads/
