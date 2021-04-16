@@ -1,5 +1,5 @@
 # F-Clicker
-This auto clicker was specifically designed for one of the Genshin Impact's achievement called "Friends the World Over". It gives 10 primogems.
+This auto clicker was specifically designed for one of the Genshin Impact's achievement called "Friends the World Over". You need to talk to NPCs for thousands of times, it gives 10 primogems as reward.
 
 # Requirement
 1. Having 16:9 screen ratio (2560:1440, 1920:1080...)
