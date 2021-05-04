@@ -5,7 +5,8 @@ This auto clicker was specifically designed for one of the Genshin Impact's achi
 1. Having 16:9 screen ratio (2560:1440, 1920:1080...)
 2. Have Python installed. If not, download here: https://www.python.org/downloads/
 3. Have pynput installed. If not, open command prompt and type `pip install pynput` and enter
-4. Have admin permission
+4. Have keyboard module. `pip install keyboard`
+5. Have admin permission
 
 # How to use
 1. Edit the `F clicker.py` file, open with notepad
